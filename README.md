@@ -1,12 +1,13 @@
 # ViText2SQL: A dataset for Vietnamese Text-to-SQL semantic parsing
 
-ViText2SQL is a dataset for the Vietnamese Text-to-SQL semantic parsing task, consisting of about 10K question and SQL query pairs. The construction of ViText2SQL is detailed in [our EMNLP-2020 (Findings) paper](https://arxiv.org/abs/2010.01891):
+ViText2SQL is a dataset for the Vietnamese Text-to-SQL semantic parsing task, consisting of about 10K question and SQL query pairs. The construction of ViText2SQL is detailed in our EMNLP-2020 Findings [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.364/):
 
 	@inproceedings{vitext2sql,
 	    title     	= {{A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese}},
 	    author    	= {Anh Tuan Nguyen and Mai Hoang Dao and Dat Quoc Nguyen},
-	    booktitle   = {Findings of the 2020 Conference on Empirical Methods in Natural Language Processing},
-	    year      	= {2020}
+	    booktitle   = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings},
+	    year      	= {2020},
+	    pages       = {4079--4085}
 	}  
 
 By downloading the ViText2SQL dataset, USER agrees:
