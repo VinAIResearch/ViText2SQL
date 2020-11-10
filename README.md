@@ -14,7 +14,7 @@ By downloading the ViText2SQL dataset, USER agrees:
 
 - to use ViText2SQL for research or educational purposes only.
 - to **not** distribute ViText2SQL or part of ViText2SQL in any original or modified form.
-- and to cite our EMNLP-2020 (Findings) paper above whenever ViText2SQL is employed to help produce published results.
+- and to cite our EMNLP-2020 Findings paper above whenever ViText2SQL is employed to help produce published results.
 
 #### Copyright (c) 2020 VinAI Research
 
