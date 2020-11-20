@@ -5,7 +5,7 @@ ViText2SQL is a dataset for the Vietnamese Text-to-SQL semantic parsing task, co
 	@inproceedings{vitext2sql,
 	    title     	= {{A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese}},
 	    author    	= {Anh Tuan Nguyen and Mai Hoang Dao and Dat Quoc Nguyen},
-	    booktitle   = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings},
+	    booktitle   = {Findings of the Association for Computational Linguistics: EMNLP 2020},
 	    year      	= {2020},
 	    pages       = {4079--4085}
 	}  
