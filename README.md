@@ -16,6 +16,8 @@ By downloading the ViText2SQL dataset, USER agrees:
 - to **not** distribute ViText2SQL or part of ViText2SQL in any original or modified form.
 - and to cite our EMNLP-2020 Findings paper above whenever ViText2SQL is employed to help produce published results.
 
+The user can also download from [**here**](https://github.com/datquocnguyen/PhoW2V) our pre-trained Word2Vec syllable and word embeddings for Vietnamese that we used in our experiments.
+
 #### Copyright (c) 2020 VinAI Research
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
