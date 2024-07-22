@@ -18,7 +18,7 @@ By downloading the ViText2SQL dataset, USER agrees:
 
 The user can also download from [**here**](https://github.com/datquocnguyen/PhoW2V) our pre-trained Word2Vec syllable and word embeddings for Vietnamese that we used in our experiments.
 
-#### Copyright (c) 2020 VinAI Research
+#### Copyright (c) 2020 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
